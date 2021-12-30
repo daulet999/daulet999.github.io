@@ -1,2 +1,2 @@
 # daulet999.github.io
-site
+[snake.game](https://daulet999.github.io/snake/) - in language JavaScript
